@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Eyuel 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-stack+Web+Developer;React and +PHP++Specialist;%F0%9F%93%9A;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-stack+Web+Developer;React and +PHP++Specialist;+%F0%9F%93%9A;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <br>
