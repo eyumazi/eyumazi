@@ -32,10 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyobed9&show_icons=true&theme=github_dark&count_private=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyobed9&layout=compact&theme=github_dark" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyumazi&show_icons=true&theme=github_dark&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyumazi&layout=compact&theme=github_dark" height="170px"/>
 </p>
-
 
 ---
 
