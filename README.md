@@ -6,9 +6,8 @@
 
 ---
 
-<br>
-
 ### 🚀 About Me
+
 
 - 👨‍💻 I'm a **Full Stack Web Developer** with strong experience in **React** for the frontend and **PHP** as a backend structure.
 - 🎯 Currently focused on building scalable, user-friendly applications with modern web technologies.
