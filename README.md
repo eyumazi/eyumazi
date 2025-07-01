@@ -1,13 +1,12 @@
 <h1 align="center">Hey there, I'm Eyuel 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Full-stack+Web+Developer;React+%2B+PHP+Specialist;Passionate+about+Code+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full-stack+Web+Developer;React+%2B+PHP+Specialist;Passionate+about+Code+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <br>
 
 ---
 
 ### 🚀 About Me
-
 
 - 👨‍💻 I'm a **Full Stack Web Developer** with strong experience in **React** for the frontend and **PHP** as a backend structure.
 - 🎯 Currently focused on building scalable, user-friendly applications with modern web technologies.
