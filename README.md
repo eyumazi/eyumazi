@@ -46,6 +46,8 @@
 - API Integration & Optimization in React
 - Advanced PHP with real-world backend architecture
 - TypeScript and state management with Redux
+- Working on Next.j fundamentals
+- Taking a Professional Frontend development course On a platform Called ALX. 
 
 ---
 
