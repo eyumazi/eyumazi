@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Eyuel 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Full+Stack+Dev.+with+React+,+PHP+,+Next.js;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Full+Stack+Dev.+with+React+,+PHP+Flutter+,+Next.js;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 
@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,react,js,html,css,mysql,tailwind,git,github,vscode,nextjs,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,react,js,html,css,mysql,tailwind,git,github,vscode,nextjs,java,cpp,flutter,dart" />
 </p>
 
 ---
